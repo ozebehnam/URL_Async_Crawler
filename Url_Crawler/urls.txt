@@ -1,0 +1,6 @@
+https://www.wikipedia.org
+https://www.tutorialspoint.com/index.html
+https://stackabuse.com
+https://www.django-rest-framework.org
+https://blog.logrocket.com
+https://www.javatpoint.com/
